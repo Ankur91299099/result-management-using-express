@@ -1,0 +1,1 @@
+INSERT INTO users(id,email,password,role) values(default,'teacher@emailL.com','teacher@12345','user')
